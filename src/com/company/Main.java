@@ -22,5 +22,6 @@ public class Main {
 
         findFirst(1, 1000);
         mapTry();
+
     }
 }
